@@ -24,7 +24,7 @@ you provide the course instructors with documentation of the extenuating
 circumstances that you are facing, no late work will be considered towards your
 grade for this project.
 
-For specific details about the general evaluation rubric for _minimum requirements_ please see [thesis guidelines](https://github.com/Allegheny-Computer-Science-Thesis-2021/course-materials/blob/main/CODE_OF_CONDUCT.md#thesis document-minimum-requirements).
+For specific details about the general evaluation rubric for _minimum requirements_ please see [thesis guidelines](https://github.com/Allegheny-Computer-Science-Thesis-2021/course-materials/blob/main/CODE_OF_CONDUCT.md#thesis-document-minimum-requirements).
 
 ### Explanation of sections
 
@@ -140,7 +140,7 @@ manually resolve them with the help of the instructor or a teaching assistant.
 ## Problems
 
 If you have found a problem with this assignment's provided source code, then
-you can go to the [Computer Science 600/610 Thesis starter](https://github.com/allegheny-computer-science-thesis-2021/cmpsc-dept-thesis)
+you can go to the [Computer Science 600/610 Thesis starter](https://github.com/allegheny-computer-science-thesis-2021/cmpsc-dept-fall-2021-thesis)
 repository and create an issue by clicking the "Issues" tab and then clicking
 the green "New Issue" button. To ensure that your issue is properly resolved,
 please provide as many details as is possible about the problem that you
