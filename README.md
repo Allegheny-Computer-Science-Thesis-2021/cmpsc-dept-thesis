@@ -7,7 +7,7 @@ Classroom](https://classroom.github.com/). To learn more about the course in
 which these assignments were completed, please visit the [Computer Science Thesis Fall 2021 Allegheny College GitHub
 Organization](https://github.com/allegheny-computer-science-thesis-2021).
 
-The LaTeX file in this repository is automatically compiled with GitHub Actions, ensuring that it compiles correctly and, moreover, that a PDF of the project proposal is available in your GitHub repository whenever a commit is tagged for a release.
+The LaTeX file in this repository is automatically compiled with GitHub Actions, ensuring that it compiles correctly and, moreover, that a PDF of the thesis document is available in your GitHub repository whenever tagging a commit for a release.
 
 ## Overview
 
@@ -87,7 +87,7 @@ of GitHub projects. Here this means that:
 * `Minor version` releases indicate small changes or additions to documents; typically these increment the second digit in the version (e.g. `1.1.0`)
 
 Please note that your readers will only read the PDF generated from "tagged" releases 
-of the file `SeniorThesisProposal.pdf` that has a version number greater than
+of the file `SeniorThesis.pdf` that has a version number greater than
 1.0.0. 
 
 That is:
@@ -121,7 +121,7 @@ you would like to receive these updates, then you can type this command in the
 main directory for this assignment:
 
 ```
-git remote add download git@github.com:allegheny-computer-science-thesis-2021/cmpsc-600-senior-thesis-proposal.git
+git remote add download git@github.com:allegheny-computer-science-thesis-2021/cmpsc-dept-fall-2021-thesis.git
 ```
 
 You should only need to type this command once; typing the command additional
