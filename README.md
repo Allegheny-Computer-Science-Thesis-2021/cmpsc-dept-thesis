@@ -34,7 +34,9 @@ Also keep in mind that the typical instruction to
 
 > whenever possible, use and describe one or more concrete examples and technical diagrams
 
-applies across _all_ relevant sections listed below. 
+applies across _all_ relevant sections listed below.
+
+A final note about requirements: nearly all of the sections requests some discussion of ethical implications inherent in projects. The ways in which ethical issues impact research will vary from project to project. Readers will be able to guide students on a project-by-project basis toward responding to the ethics requirements listed below.
 
 #### Introduction
 
