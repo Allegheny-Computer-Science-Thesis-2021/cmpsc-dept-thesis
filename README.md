@@ -121,7 +121,7 @@ you would like to receive these updates, then you can type this command in the
 main directory for this assignment:
 
 ```
-git remote add download git@github.com:allegheny-computer-science-thesis-2021/cmpsc-dept-fall-2021-thesis.git
+git remote add download git@github.com:allegheny-computer-science-thesis-2021/cmpsc-dept-thesis.git
 ```
 
 You should only need to type this command once; typing the command additional
@@ -142,7 +142,7 @@ manually resolve them with the help of the instructor or a teaching assistant.
 ## Problems
 
 If you have found a problem with this assignment's provided source code, then
-you can go to the [Computer Science 600/610 Thesis starter](https://github.com/allegheny-computer-science-thesis-2021/cmpsc-dept-fall-2021-thesis)
+you can go to the [Computer Science 600/610 Thesis starter](https://github.com/allegheny-computer-science-thesis-2021/cmpsc-dept-thesis)
 repository and create an issue by clicking the "Issues" tab and then clicking
 the green "New Issue" button. To ensure that your issue is properly resolved,
 please provide as many details as is possible about the problem that you
